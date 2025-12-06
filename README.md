@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Jedsadapon Wandee
 ==========================================================================================================================================
 
-Data Analyst and Game Developer
+Data Analyst • Business Analyst • Game Developer • Game Designer
 -------------------------------
 
 I'm a data-driven creative who works across Data Analytics, Business Analysis, Game Development and Game Design.

@@ -9,7 +9,7 @@ I'm a data-driven creative who works across Data Analytics, Business Analysis, G
 I enjoy solving problems through data while also building meaningful gameplay experiences.
 
 * 🌍  I'm based in Bangkok, Thailand
-* 🖥️  See my portfolio at [MyPortfolio](http://jedsadaponportfolio.webflow.io/)
+* 🖥️  See my portfolio at [MyLinkedin](www.linkedin.com/in/jedsadaporn-data-engineer)
 * ✉️  You can contact me at [w.jedsadapon@gmail.com](mailto:w.jedsadapon@gmail.com)
 * 👥  I'm looking to collaborate on Business Analysis Projects and Game Development Projects
 
